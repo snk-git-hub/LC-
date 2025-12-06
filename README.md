@@ -1,6 +1,8 @@
 # leetcode
+<img width="1172" height="374" alt="image" src="https://github.com/user-attachments/assets/f7d247a2-2170-4636-ba16-6e6491fd8f54" />
 
 Most problems fall into these categories. Learn to identify them:
+
 
 | **Pattern** | **Clue Words** | **Common Approach** |
 |-------------|----------------|---------------------|
