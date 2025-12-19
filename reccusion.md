@@ -249,7 +249,7 @@ int main() {
 * [✓] Sum of array
 * [✓] Reverse a string
 * [✓] Decimal to binary
-* [ ] Sum of digits
+* [✓] Sum of digits
 * [ ] Array Min and Max
 * [ ] Palindrome Check
 ---
