@@ -1,4 +1,3 @@
-
 ✓
 ---
 ##  Recursion Roadmap [✓]
@@ -15,7 +14,7 @@
 * [✓] Palindrome Check
 ---
 ## Medium Problems
-* [ ] Mean of Array
+* [✓] Mean of Array
 * [ ] Adjacent duplicates
 * [ ] Coin Change
 * [ ] Binary to Gray
